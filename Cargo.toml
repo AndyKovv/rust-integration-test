@@ -2,6 +2,8 @@
 name = "integration-test"
 version = "0.0.1"
 authors = ["Andriy Kovalov <andy.kovv@gmail.com>"]
+description = "Procedural macros for create integration tests in right way with set_up() and tear_down() hooks."
+license = "MIT"
 
 [lib]
 proc-macro = true
